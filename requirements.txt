@@ -1,0 +1,14 @@
+voila
+ee
+
+pandas 
+geemap
+# time
+datetime
+# numpy 
+# os
+# sys
+# seaborn
+matplotlib
+# ipywidgets
+Jinja2==3.0.3
