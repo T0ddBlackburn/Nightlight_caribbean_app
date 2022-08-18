@@ -1,4 +1,5 @@
 voila
 geemap
 leafmap
+ee
 Jinja2==3.0.3
